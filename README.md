@@ -12,7 +12,7 @@ The Book Land Library is an online platform where lots of books are stored for r
 
 ### `How the Bookland Library was created`
 
-First of all, the information of all the books has been collected through Google search. Then the data is sorted into synchronous data using React. From there the user can buy the book of his choice, to create his own library.
+First of all, the information of all the books has been collected through Google search. Then the data is sorted into synchronous way using React. From UI the user can see the books information easily and buy the book of his choice, to create his own library.
 
 
 ### `The purpose of making bookland`
