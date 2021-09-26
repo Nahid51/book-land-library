@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Create an online library called Bookland
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
